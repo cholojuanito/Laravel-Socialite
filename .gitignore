@@ -42,3 +42,11 @@ eagle.epf
 # file locks introduced since 7.x
 *.lck
 
+.env
+/node_modules
+# Others options for you gitignore file
+#
+# /public/hot
+# /public/storage
+# /storage/*.key
+#
